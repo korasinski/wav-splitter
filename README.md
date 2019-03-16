@@ -1,2 +1,3 @@
 # wav-splitter
-Multichannel WAV splitter This web aplication allows to split every channel on WAV audio file into separate files and then download from server as a ZIP archive.
+Multichannel WAV splitter 
+This is a web aplication that allows to separate each channel on WAV audio file into external files and then pack them as a ZIP archive.
