@@ -1,0 +1,282 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="/usr/local/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1437855905" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (untitled2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/PycharmProjects/untitled2/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled2/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/untitled2/venv/lib/python3.6/site-packages/setuptools-39.0.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled2/venv/lib/python3.6/site-packages/pip-9.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1653347366" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (untitled3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/PycharmProjects/untitled3/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled3/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/untitled3/venv/lib/python3.6/site-packages/setuptools-39.0.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled3/venv/lib/python3.6/site-packages/pip-9.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1288310233" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled3" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Projekt)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/PycharmProjects/Projekt/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Projekt/venv/lib/python3.6/site-packages/setuptools-39.0.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt/venv/lib/python3.6/site-packages/pip-9.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-998324438" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Projekt" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Lista2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/PycharmProjects/Projekt2/Lista2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/Lista2/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Projekt2/Lista2/lib/python3.6/site-packages/setuptools-39.0.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/Lista2/lib/python3.6/site-packages/pip-9.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-2065464822" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Lista2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (untitled4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="$USER_HOME$/PycharmProjects/Projekt2/untitled4/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/untitled4/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Projekt2/untitled4/lib/python3.7/site-packages/setuptools-39.0.1-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/untitled4/lib/python3.7/site-packages/pip-9.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/593943806" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled4" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (WebApp)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="$USER_HOME$/PycharmProjects/Projekt2/WebApp/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/WebApp/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Projekt2/WebApp/lib/python3.7/site-packages/setuptools-39.0.1-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/WebApp/lib/python3.7/site-packages/pip-9.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1440401964" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/WebApp" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Web)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="$USER_HOME$/PycharmProjects/Projekt2/Web/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/Web/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Projekt2/Web/lib/python3.7/site-packages/setuptools-39.0.1-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/Web/lib/python3.7/site-packages/pip-9.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/649903129" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Web" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (untitled5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="$USER_HOME$/PycharmProjects/Projekt2/untitled5/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/untitled5/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Projekt2/untitled5/lib/python3.7/site-packages/setuptools-39.0.1-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Projekt2/untitled5/lib/python3.7/site-packages/pip-9.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/723026525" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled5" />
+    </jdk>
+  </component>
+</application>
