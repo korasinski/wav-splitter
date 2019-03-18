@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Projektowanie aplikacji internetowych">
+    <meta name="author" content="Jakub Orasiński - KudlatyWORKSHOP.com">
+
+    <title>Aplikacja</title>
+
+    <!-- Bootstrap core CSS -->
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+    <link rel="stylesheet" href="{{url_for('css_static', filename='style.css')}}">
+
+
+
+</head>
+
+<body class="text-center">
+
+
+<div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+    <header class="masthead mb-auto">
+        <div class="inner">
+            <img class="masthead-logo" src="{{url_for('images_static', filename='logo.png')}}"/>
+         <!--  <nav class="nav nav-masthead justify-content-center">
+                <a class="nav-link active" href="#">Home</a>
+                <a class="nav-link" href="#">Features</a>
+                <a class="nav-link" href="#">Contact</a>
+            </nav>  -->
+        </div>
+    </header>
+
+    <main role="main" class="inner cover">
+
+        <div class="upload">
+            <h1 class="cover-heading">Multichannel WAV splitter</h1>
+            <p class="lead">This web aplication allows to split every channel on WAV audio file into separate files and then download from server as a ZIP archive.</p>
+            <p class="lead">
+
+            <form id="uploadform" method="post" enctype="multipart/form-data">
+            <hr>
+            <input type="file" name="file" accept=".wav" class="filestyle" data-dragdrop="false">
+            <hr>
+            <button id="submit" type="button" class="btn btn-light">Upload file</button>
+            </form>
+
+            </p>
+        </div>
+
+        <div class="tableResult p-3">
+
+            <table id="values" class="table table-borderd">
+                <thead>
+                <tr><h4>Result:</h4></tr>
+                <tr>
+                    <audio controls class="m-3">
+                    <source class="music"  type="audio/wav">
+                    Your browser does not support the audio element.
+                    </audio>
+                </tr>
+                </thead>
+                <!--Table body-->
+                <tbody>
+                <tr>
+                    <td>File name:</td>
+                    <td><span id="resultFileName"> </span</td>
+                </tr>
+                <tr>
+                    <td>File size:</td>
+                    <td><span id="resultFileSize"> </span></td>
+                </tr>
+                <tr>
+                    <td>Channel amount:</td>
+                    <td><span id="resultFileChannel"> </span></td>
+                </tr>
+                <tr>
+                    <td>Sample rate [Hz]:</td>
+                    <td><span id="resultFileSample"> </span></td>
+                </tr>
+                <tr>
+                    <td>Byte rate [B/s]:</td>
+                    <td><span id="resultFileByte"> </span></td>
+                </tr>
+                <tr>
+                    <td>Audio codec:</td>
+                    <td><span id="resultFileCodec"> </span></td>
+                </tr>
+                </tbody>
+                <!--Table body-->
+            </table>
+            <!--Table-->
+             <a id="download" href="{{url_for('export_path', filename='export.zip')}}" class="btn btn-dark">Download file</a>
+        </div>
+
+         <button id="back" type="button" class="btn btn-light m-4">Back</button>
+
+    </main>
+
+    <footer class="mastfoot mt-auto">
+        <p><span class="copyright">&#169; Copyright 2019.  Made with <span class="heart-icon"><i
+                class="fa fa-heart"></i></span> by <a href="https://www.kudlatyworkshop.com" target="_blank">KudlatyWORKSHOP.com</a>
+			</span></p>
+    </footer>
+</div>
+<!--
+<script type="text/javascript" color="255,255,255" pointColor="255,255,255" opacity='0.5' zIndex="-1" count="150" src="{{url_for('js_static', filename='animacja.js')}}"></script>
+-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="{{url_for('js_static', filename='app.js')}}"></script>
+<script src="{{url_for('js_static', filename='bootstrap-filestyle.js')}}"></script>
+
+</body>
+</html>
