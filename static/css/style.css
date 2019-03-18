@@ -26,7 +26,8 @@ a:hover {
 html,
 body {
     height: 100%;
-    background-color: #333;
+    /* background-color: #333; */
+    z-index: 0;
 }
 
 body {
@@ -39,7 +40,7 @@ body {
     color: #fff;
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
     box-shadow: inset 0 0 10rem rgba(0, 0, 0, .5);
-    z-index: 0;
+
 }
 
 .cover-container {
@@ -111,11 +112,6 @@ body {
     color: rgba(255, 255, 255, .5);
 }
 
-#particles-js {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-}
 
 span.copyright a {
     text-decoration: none;
@@ -155,4 +151,35 @@ span.copyright:hover > span.heart-icon {
     border-radius: 0px 5px 5px 0px;
     border-bottom-color: #fff;
     border-width: 1px;
+}
+
+
+
+#particles-js{
+  width: 100%;
+  height: 100%;
+    background-color: #333333;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+    z-index: -1;
+    position: absolute;
+}
+
+canvas{
+  display:block;
+  vertical-align:bottom;
+}
+
+
+.btn-outline-dark {
+color: #333;
+border-color: #333;
+}
+
+.btn-outline-dark:hover {
+color: rgba(255, 255, 255, .5);
+border-color: rgba(255, 255, 255, .5);
+    background-color: rgba(255, 255, 255, 0);
 }

@@ -34,6 +34,14 @@ $(function() {
     });
 });
 
-$('#back').click(function() {
+$("#back").click(function() {
     location.reload();
+});
+
+
+particlesJS.load('particles-js','js/particles.json');
+
+
+$("#animation").click(function(){
+    window.pJSDom[0].pJS.fn.vendors.destroypJS();
 });

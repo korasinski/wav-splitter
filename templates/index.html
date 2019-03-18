@@ -7,7 +7,7 @@
     <meta name="description" content="Projektowanie aplikacji internetowych">
     <meta name="author" content="Jakub Orasiński - KudlatyWORKSHOP.com">
 
-    <title>Aplikacja</title>
+    <title>WAV splitter</title>
 
     <!-- Bootstrap core CSS -->
 
@@ -19,18 +19,19 @@
 
 </head>
 
+
+
 <body class="text-center">
 
+<div id="particles-js"></div>
 
 <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+
+
+
     <header class="masthead mb-auto">
         <div class="inner">
             <img class="masthead-logo" src="{{url_for('images_static', filename='logo.png')}}"/>
-         <!--  <nav class="nav nav-masthead justify-content-center">
-                <a class="nav-link active" href="#">Home</a>
-                <a class="nav-link" href="#">Features</a>
-                <a class="nav-link" href="#">Contact</a>
-            </nav>  -->
         </div>
     </header>
 
@@ -101,14 +102,17 @@
     </main>
 
     <footer class="mastfoot mt-auto">
+
+
+        <button id="animation" type="button" class="btn btn-outline-dark m-2">Animation off</button>
+
         <p><span class="copyright">&#169; Copyright 2019.  Made with <span class="heart-icon"><i
                 class="fa fa-heart"></i></span> by <a href="https://www.kudlatyworkshop.com" target="_blank">KudlatyWORKSHOP.com</a>
 			</span></p>
     </footer>
 </div>
-<!--
-<script type="text/javascript" color="255,255,255" pointColor="255,255,255" opacity='0.5' zIndex="-1" count="150" src="{{url_for('js_static', filename='animacja.js')}}"></script>
--->
+
+<script type="text/javascript" src="https://rawgit.com/VincentGarreau/particles.js/master/particles.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="{{url_for('js_static', filename='app.js')}}"></script>
