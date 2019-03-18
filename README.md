@@ -60,4 +60,6 @@ Source: http://pythonaudio.blogspot.com/2014/04/3-reading-wave-file.html
 * particles.js - https://github.com/VincentGarreau/particles.js
 * bootstrap-filestyle.js - https://github.com/markusslima/bootstrap-filestyle
 
+Example WAV files from: http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/Samples.html
+
 -------------------------------
