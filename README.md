@@ -1,6 +1,6 @@
 # wav-splitter
 ### A lightweight WebApp for WAV files processing
-This is a web aplication that allow to split every channel on WAV audio file into separate files. You are able to download them as a ZIP file. There is also a function that returns a lot of data hidden in header of .wav files (RIFF tables).
+This is a web aplication that allow to split every channel on WAV audio file into separate files. You are able to download them as a ZIP file. There is also a function that returns a lot of data hidden in header of .wav files (RIFF tables). Requires [Flask](https://github.com/pallets/flask). 
 
 ------------------------------
 
